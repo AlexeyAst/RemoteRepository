@@ -10,6 +10,6 @@ git remote add origin https://github.com/AlexeyAst/RemoteRepository.git
 git branch -M main
 git push -u origin main
 
-
+* Можно вносить изменения в файл сразу на сервисе
 
 
